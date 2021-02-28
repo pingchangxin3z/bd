@@ -31,4 +31,4 @@
 
 安装[pull插件][1]，选择**Only select repositories**并将此项目加入。
 
-  [1]: https://github.com/apps/pull
+  [1]: https://github.com/apps/pull  1
